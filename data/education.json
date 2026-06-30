@@ -1,0 +1,16 @@
+[
+    {
+        "university": "lorem ipsum",
+		"logo": "images/ntust-logo.png",
+        "major": "Master of Science in Electronic and Computer Engineering",
+        "year": "2028 - 2030",
+        "description": "GPA - of -; "
+    },
+    {
+        "university": "Polinyes",
+		"logo": "images/polines-logo.png",
+        "major": "Bachelor Applied of Electrical Engineering",
+        "year": "2023 - 2027",
+        "description": "GPA - of -; "
+    }
+]

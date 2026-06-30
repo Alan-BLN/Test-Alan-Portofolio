@@ -1,0 +1,37 @@
+{
+    "name": "Alandra Surya Seta Santosa - Student of Semarang State Polytechnic - Electronic Engineering",
+    "description": "I am an Electronic Engineering student with a passion for technology, embedded systems, and digital art. While my academic background is in engineering, I also enjoy drawing, web development, and learning foreign languages. I am always eager to improve my skills and take on new challenges that combine creativity with technology.",
+    "profileImage": "images/profile.jpg",
+    "email": "suryasantosa75@gmail.com",
+    "phone": "+62 877-3454-8621",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "-"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/Alan-BLN"
+        },
+        {
+            "platform": "X",
+            "url": "https://x.com/Salven635992"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 67},
+        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 67},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 67},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 67},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 67},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 67},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 67},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 67},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 90}
+    ]
+}
